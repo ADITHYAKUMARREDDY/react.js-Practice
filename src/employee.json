@@ -1,0 +1,20 @@
+{ "employee":[
+    {
+        "id": 1,
+        "Name": "adithya",
+        "Email": "adithya.2021@vitstudent.ac.in",
+        "Salary": ""
+    },
+    {
+        "id": 2,
+        "Name": "adithya",
+        "Email": "adithya.2021@vitstudent.ac.in",
+        "Salary": ""
+    },
+    {
+        "id": 3,
+        "Name": "adithya",
+        "Email": "adithya.2021@vitstudent.ac.in",
+        "Salary": ""
+    }
+]}

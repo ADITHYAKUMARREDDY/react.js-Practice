@@ -1,0 +1,24 @@
+#about p{
+    text-align: justify;
+    
+}
+#batches tbody td:last-child{
+        text-align: center;
+}
+#batches tbody td a{
+    text-decoration: none;
+    
+}
+#courses{
+    width: 10%;
+    height:10px;
+}
+.button{
+    width: 90%;
+    height: 50px;
+    align-items: center;
+   
+}
+.gray{
+    background-color: #cfcfcf;
+}
